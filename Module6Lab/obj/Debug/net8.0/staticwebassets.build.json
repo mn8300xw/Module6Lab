@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "5KfI1dNNaUvcvLJA2P/TWRFgbCv6Ou50+DVQtp+Uqjo=",
+  "Hash": "8kmGozC9J5xQETbKz4Of3ggdvaZ5W79C+7DvXrvQiic=",
   "Source": "Module6Lab",
   "BasePath": "_content/Module6Lab",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Module6Lab/wwwroot",
+      "Source": "Module6Lab",
+      "ContentRoot": "/workspaces/Module6Lab/Module6Lab/wwwroot/",
+      "BasePath": "_content/Module6Lab",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/Module6Lab/Module6Lab/wwwroot/index.html",
+      "SourceId": "Module6Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module6Lab/Module6Lab/wwwroot/",
+      "BasePath": "_content/Module6Lab",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/Module6Lab/Module6Lab/wwwroot/styles.css",
+      "SourceId": "Module6Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module6Lab/Module6Lab/wwwroot/",
+      "BasePath": "_content/Module6Lab",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
 }

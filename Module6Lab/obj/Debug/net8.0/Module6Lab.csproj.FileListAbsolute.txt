@@ -24,3 +24,4 @@
 /workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.pdb
 /workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/Module6Lab.genruntimeconfig.cache
 /workspaces/Module6Lab/Module6Lab/obj/Debug/net8.0/ref/Module6Lab.dll
+/workspaces/Module6Lab/Module6Lab/bin/Debug/net8.0/Module6Lab.staticwebassets.runtime.json
